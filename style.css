@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.kaushan-script-regular {
+    font-family: "Kaushan Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .montserrat-uniquifier {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+header{
+    background: url(./img/back1.png);
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+nav{
+    padding-top: 33px;
+}
+.list{
+    display: flex;
+    /* justify-content: space-around; */
+}
+.item a {
+    text-decoration: none;
+    list-style: none;
+    margin-right: 40px;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+}
+.item a:hover{
+    color: yellow;
+    /* text-decoration: underline; */
+    padding-bottom: 8px;
+    border-bottom:1px solid yellow;
+}
+.creative{
+    font-size: 60px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 150px;
+    font-family: "Kaushan Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.welcome{
+    color: #FFFFFF;
+    font-size: 140px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.btn1{
+    background-color: transparent;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+    border: 3px solid #FFFFFF;
+    padding-bottom: 5px;
+    margin-left: -20px;
+    margin-bottom: 130px;
+}
+.card1{
+    border-top: 5px solid white;
+}
+.intro{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 12px;
+}
+.what{
+    text-align: center;
+    margin-top: 95px;
+    font-family: "Kaushan Script", cursive;
+    font-size: 24px;
+    margin-bottom: 1px;
+    font-weight: 400;
+    font-style: normal;
+}
+.story{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+.lor{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 140px;
+}
+.super{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;  
+    text-align: center;
+    align-items: center;
+    padding-top: 26%;
+}
+.bard{
+    margin-bottom: 60px;
+}
+.sec2{
+    background-color: #1FE7CF;
+    height: 270px;
+}
+.ard{
+    margin-top: 80px;
+}
+.num{
+    color: #FFFFFF;
+    font-size: 72px;
+    font-weight: bold;
+    text-align: center;
+}
+.web{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+}
+.sec3{
+    width: 100%;
+    height: 730px;
+    margin-left: -13%;
+    background: url(./img/t1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+}
+.for{
+    margin-top: 120px;
+    font-family: "Kaushan Script", cursive;
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    font-weight: 500;
+}
+.uni{
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-bottom: 89px;
+}
+.sec4{
+    background: url(./img/back2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+    /* margin-bottom: 110px; */
+}
+.oh{
+    width: 100%;
+    height: 290px;
+    margin-bottom: 100px;
+}
+.fard{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.fardh{
+    font-size: 16px;
+    color: black;
+    font-weight: 500;
+    margin-top: 42px;
+}
+.fardg{
+    color: #726A6A;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+footer{
+    background-color: #F8F8F8;
+    height: 250px;
+}
